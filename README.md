@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:muttesairajesh@gmail.com)
 </p>
 
-<h3 align="center">✨ My Toolbox ✨</h3>
+<h3 align="center">Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
