@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
