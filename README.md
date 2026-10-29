@@ -5,7 +5,7 @@
 <p align="center">
 [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/SaiRajesh01)
 [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/www.linkedin.com/in/mutte-sai-rajesh-1a7148293)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:muttesairajesh@gmail.com)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](muttesairajesh@gmail.com)
 </p>
 
 <h3 align="center">Skills</h3>
