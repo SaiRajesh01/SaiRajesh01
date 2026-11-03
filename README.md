@@ -30,22 +30,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRajesh01&theme=highcontrast" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&bg_color=0d1117&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&bg_color=0d1117&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&bg_color=0d1117&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
