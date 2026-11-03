@@ -30,6 +30,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRajesh01&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRajesh01&bg_color=0d1117&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true"
     alt="GitHub Contribution Activity Graph"
