@@ -41,12 +41,5 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/SaiRajesh01?colour=11d452&bgColour=0d1117&dotColour=ffffff"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
