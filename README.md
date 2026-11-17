@@ -34,9 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRajesh01&theme=highcontrast" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img
     src="https://github.pumbas.net/api/contributions/SaiRajesh01?colour=11d452&bgColour=0d1117&dotColour=ffffff"
     alt="GitHub Contribution Activity Graph"
