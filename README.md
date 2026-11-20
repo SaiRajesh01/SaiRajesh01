@@ -9,39 +9,96 @@
     <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SaiRajesh01&label=Profile%20views&color=11d452&style=for-the-badge" alt="Profile views" />
-</p>👨‍💻 About Me
-- 🎓 B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.
-- 💻 Interested in Full-Stack Development, AI/ML, and building practical software solutions.
-- 🤖 Exploring workflow automation with tools such as n8n and Zapier.
-- 🌱 I enjoy learning new technologies, solving problems, and turning ideas into working projects.
-🛠️ Tech Stack & Tools
+
+<!-- ABOUT ME -->
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
+  I'm a Computer Science and Engineering student specializing in
+  <strong>Artificial Intelligence and Machine Learning</strong>, passionate about
+  developing practical software solutions and exploring emerging technologies.
+</p>
+
+<ul>
+  <li>🎓 Pursuing B.Tech in Computer Science and Engineering (AI & ML).</li>
+  <li>💻 Interested in Full-Stack Development and AI/ML applications.</li>
+  <li>🤖 Exploring intelligent workflow automation using n8n and Zapier.</li>
+  <li>🌱 Continuously learning, solving problems, and building meaningful projects.</li>
+</ul>
+
+<!-- TECH STACK -->
+<h2 align="left">🛠️ Technical Skills & Tools</h2>
+
+<h4 align="left">Languages</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-102216?style=for-the-badge&logo=python&logoColor=11D452" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-102216?style=for-the-badge&logo=php&logoColor=11D452" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-102216?style=for-the-badge&logo=javascript&logoColor=11D452" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-102216?style=for-the-badge&logo=html5&logoColor=11D452" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11D452" alt="CSS3"/>
+</p>
+
+<h4 align="left">Frameworks & Development</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-102216?style=for-the-badge&logo=react&logoColor=11D452" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-102216?style=for-the-badge&logo=nodedotjs&logoColor=11D452" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-102216?style=for-the-badge&logo=express&logoColor=11D452" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-102216?style=for-the-badge&logo=flask&logoColor=11D452" alt="Flask"/>
+</p>
+
+<h4 align="left">Data Science & Databases</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-102216?style=for-the-badge&logo=numpy&logoColor=11D452" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-102216?style=for-the-badge&logo=pandas&logoColor=11D452" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MySQL-102216?style=for-the-badge&logo=mysql&logoColor=11D452" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-102216?style=for-the-badge&logo=mongodb&logoColor=11D452" alt="MongoDB"/>
+</p>
+
+<h4 align="left">Tools & Automation</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-102216?style=for-the-badge&logo=n8n&logoColor=11D452" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Zapier-102216?style=for-the-badge&logo=zapier&logoColor=11D452" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/Git-102216?style=for-the-badge&logo=git&logoColor=11D452" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="GitHub"/>
+</p>
+
+<!-- FEATURED PROJECTS -->
+<h2 align="left">🚀 Featured Projects</h2>
+
+<h3>01. Online Job Portal</h3>
+<p>
+  A web-based recruitment platform connecting job seekers and employers
+  through dedicated modules for job applications and job management.
+</p>
+<p><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
+
+<h3>02. Intelligent Campus Governance & Analytics Platform</h3>
+<p>
+  A campus-focused digital platform designed to streamline institutional
+  workflows and support data-driven decision-making through analytics.
+</p>
+
+<h3>03. Human-Verified vs AI-Generated Text Detection</h3>
+<p>
+  An NLP and Machine Learning project focused on distinguishing
+  human-written content from AI-generated text using linguistic
+  features and deep learning approaches.
+</p>
+<p><strong>Tech Stack:</strong> Python, NLP, TF-IDF, BiLSTM, BERT</p>
+
+<!-- GITHUB ANALYTICS -->
+<h2 align="left">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>🚀 Featured Projects
-- Online Job Portal — A PHP and MySQL web application with separate job-seeker and employer modules.
-- Intelligent Campus Governance & Analytics Platform — A campus-focused project centred on digital workflows and analytics.
-- Human-Verified vs AI-Generated Text Detection — An NLP/ML major project exploring the classification of human-written and AI-generated text using approaches such as TF-IDF, BiLSTM, and BERT.
-📊 GitHub Analytics
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiRajesh01&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRajesh01&layout=compact&theme=highcontrast&hide_border=true" alt="Most Used Languages"/>
+</p>
+
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SaiRajesh01&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRajesh01&layout=compact&theme=highcontrast&hide_border=true" alt="Most-used languages" />
-</p><p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=SaiRajesh01&theme=highcontrast&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=SaiRajesh01&theme=highcontrast&hide_border=true" alt="GitHub contribution streak" />
 </p>👾 Contribution Activity
 <p align="center">
