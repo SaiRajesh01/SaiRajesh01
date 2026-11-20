@@ -43,7 +43,7 @@
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRajesh01&layout=compact&theme=highcontrast&hide_border=true" alt="Most-used languages" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=SaiRajesh01&theme=highcontrast&hide_border=true" alt="GitHub contribution streak" />
-</p>👾 Contribution Arcade — Galaga
+</p>👾 Contribution Activity
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiRajesh01/SaiRajesh01/output/galaga-contribution-graph-dark.svg" />
