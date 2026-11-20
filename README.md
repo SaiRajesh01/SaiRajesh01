@@ -53,8 +53,7 @@
 </p><p align="center">
   <i>My coding activity, turned into an arcade game. Generated daily with <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a>.</i>
 </p>📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github.pumbas.net/api/contributions/SaiRajesh01?colour=11d452&bgColour=0d1117&dotColour=ffffff" alt="GitHub contribution activity graph" width="100%" />
-</p><p align="center">
   <i>Thanks for visiting my profile! ⭐</i>
 </p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=110&section=footer&text=Keep%20Building%20%26%20Keep%20Growing!&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer banner" />
