@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SaiRajesh01&label=Profile%20views&color=11d452&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/SaiRajesh01?tab=followers">
+    <img src="https://img.shields.io/github/followers/SaiRajesh01?style=for-the-badge&logo=github&logoColor=11D452&label=FOLLOWERS&color=102216" alt="GitHub followers" />
+  </a>
 
 <!-- ABOUT ME -->
 <h2 align="left">👨‍💻 About Me</h2>
@@ -128,10 +132,7 @@
   <a href="https://github.com/SaiRajesh01?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaiRajesh01&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=11D452&color=102216&labelColor=0d1117" alt="Public repositories" />
   </a>
-</p>🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiRajesh01&theme=darkhub&no-frame=true&no-bg=true&column=5&margin-w=12" alt="GitHub profile achievements and trophies" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaiRajesh01&theme=highcontrast&hide_border=true" alt="GitHub contribution streak" />
