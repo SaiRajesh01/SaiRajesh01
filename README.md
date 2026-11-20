@@ -121,24 +121,7 @@
 </p>
 <p><strong>Tech Stack:</strong> Python, NLP, TF-IDF, BiLSTM, BERT</p>
 
-🌟 GitHub Stats
-<p align="center">
-  <a href="https://github.com/SaiRajesh01">
-    <img src="https://komarev.com/ghpvc/?username=SaiRajesh01&style=for-the-badge&color=11d452&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/SaiRajesh01?tab=followers">
-    <img src="https://img.shields.io/github/followers/SaiRajesh01?style=for-the-badge&logo=github&logoColor=11D452&label=FOLLOWERS&color=102216" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/SaiRajesh01?tab=repositories">
-    <img src="https://img.shields.io/github/stars/SaiRajesh01?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=11D452&label=TOTAL%20STARS&color=102216" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/SaiRajesh01?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSaiRajesh01&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=11D452&color=102216&labelColor=0d1117" alt="Public repositories" />
-  </a>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiRajesh01&theme=highcontrast&hide_border=true" alt="GitHub contribution streak" />
 </p>👾 Contribution Activity
 <p align="center">
   <picture>
