@@ -13,6 +13,9 @@
   <a href="https://github.com/SaiRajesh01?tab=followers">
     <img src="https://img.shields.io/github/followers/SaiRajesh01?style=for-the-badge&logo=github&logoColor=11D452&label=FOLLOWERS&color=102216" alt="GitHub followers" />
   </a>
+  <a href="https://github.com/SaiRajesh01?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SaiRajesh01?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=11D452&label=TOTAL%20STARS&color=102216" alt="GitHub stars" />
+  </a>
 
 <!-- ABOUT ME -->
 <h2 align="left">👨‍💻 About Me</h2>
