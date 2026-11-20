@@ -55,4 +55,5 @@
 <p align="center">
   <i>Thanks for visiting my profile! ⭐</i>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=110&section=footer&text=Keep%20Building%20%26%20Keep%20Growing!&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />>
