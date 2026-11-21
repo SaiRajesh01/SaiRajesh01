@@ -130,7 +130,8 @@
 <p><strong>Tech Stack:</strong> Python, NLP, TF-IDF, BiLSTM, BERT</p>
 
 
-</p>👾 Contribution Activity
+</p>
+<h2>👾 Contribution Activity</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiRajesh01/SaiRajesh01/output/galaga-contribution-graph-dark.svg" />
