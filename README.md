@@ -106,31 +106,64 @@
   </tr>
 </table>
 <!-- FEATURED PROJECTS -->
-<h2 align="left">🚀 Featured Projects</h2>
 
-<h3>01. Online Job Portal</h3>
-<p>
-  A web-based recruitment platform connecting job seekers and employers
-  through dedicated modules for job applications and job management.
-</p>
-<p><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript</p>
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<h3>02. Intelligent Campus Governance & Analytics Platform</h3>
-<p>
-  A campus-focused digital platform designed to streamline institutional
-  workflows and support data-driven decision-making through analytics.
+<!-- PROJECT 01 -->
+<h3 align="center">01 | 🌐 Online Job Portal</h3>
+
+<p align="center">
+  A web-based recruitment platform that connects job seekers with employers,
+  providing dedicated modules for job applications, job listings, and employer management.
 </p>
 
-<h3>03. Human-Verified vs AI-Generated Text Detection</h3>
-<p>
-  An NLP and Machine Learning project focused on distinguishing
-  human-written content from AI-generated text using linguistic
-  features and deep learning approaches.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
-<p><strong>Tech Stack:</strong> Python, NLP, TF-IDF, BiLSTM, BERT</p>
 
+<hr/>
 
+<!-- PROJECT 02 -->
+<h3 align="center">02 | 🏫 Intelligent Campus Governance & Analytics Platform</h3>
+
+<p align="center">
+  A smart campus-focused platform designed to digitize institutional workflows,
+  improve administrative coordination, and support data-driven decision-making
+  through analytics.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Workflows-0D9488?style=for-the-badge" alt="Digital Workflows"/>
+  <img src="https://img.shields.io/badge/Campus%20Management-2563EB?style=for-the-badge" alt="Campus Management"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-9333EA?style=for-the-badge" alt="Data Analytics"/>
+</p>
+
+<hr/>
+
+<!-- PROJECT 03 -->
+<h3 align="center">03 | 🤖 Human-Verified vs AI-Generated Text Detection</h3>
+
+<p align="center">
+  An NLP and Machine Learning major project focused on identifying
+  AI-generated text and distinguishing it from human-written content
+  using traditional machine learning and deep learning techniques.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/TF--IDF-00897B?style=for-the-badge" alt="TF-IDF"/>
+  <img src="https://img.shields.io/badge/BiLSTM-EA580C?style=for-the-badge" alt="BiLSTM"/>
+  <img src="https://img.shields.io/badge/BERT-8E44AD?style=for-the-badge" alt="BERT"/>
+</p>
+
+<hr/>
+
 <h2>👾 Contribution Activity</h2>
 <p align="center">
   <picture>
