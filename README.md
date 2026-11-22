@@ -183,19 +183,7 @@ Platform Highlights<br>
 </p><p>
   <a href="https://swipe-x.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
 </p>
-<!-- Add a GitHub Repository badge here when the SwipeX repository URL is available. -->
 <!-- ================== END FEATURED PROJECTS ==================>
-
-<h2>👾 Contribution Activity</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiRajesh01/SaiRajesh01/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiRajesh01/SaiRajesh01/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/SaiRajesh01/SaiRajesh01/output/galaga-contribution-graph.svg" alt="Animated Galaga game based on my GitHub contributions" width="100%" />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
  <!-- CONTRIBUTION ACTIVITY -->
 <h2 align="center">👾 CONTRIBUTION ACTIVITY</h2>
