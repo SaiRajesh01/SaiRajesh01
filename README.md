@@ -175,7 +175,7 @@ Tech Stack
 - Swipe-based discovery experience for exploring relevant job opportunities.
 - ATS compatibility and resume-readiness insights.
 - Recruiter connectivity, salary transparency, and clear work-mode information.
-Platform Highlights
+Platform Highlights<br>
 <p>
   <img src="https://img.shields.io/badge/Swipe--Based_Discovery-7C3AED?style=for-the-badge" alt="Swipe-Based Discovery" />
   <img src="https://img.shields.io/badge/ATS_Resume_Insights-0891B2?style=for-the-badge" alt="ATS Resume Insights" />
