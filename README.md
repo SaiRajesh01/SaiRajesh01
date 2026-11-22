@@ -105,7 +105,6 @@
     </td>
   </tr>
 </table>
-<!-- FEATURED PROJECTS -->
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
@@ -184,7 +183,8 @@ Platform Highlights<br>
 </p><p>
   <a href="https://swipe-x.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
 </p>
-<!-- Add a GitHub Repository badge here when the SwipeX repository URL is available. --><!-- ================== END FEATURED PROJECTS ==================
+<!-- Add a GitHub Repository badge here when the SwipeX repository URL is available. -->
+<!-- ================== END FEATURED PROJECTS ==================>
 
 <h2>👾 Contribution Activity</h2>
 <p align="center">
