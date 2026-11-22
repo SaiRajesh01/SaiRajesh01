@@ -107,62 +107,84 @@
 </table>
 <!-- FEATURED PROJECTS -->
 
-<!-- FEATURED PROJECTS -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<!-- PROJECT 01 -->
-<h3 align="center">01 | 🌐 Online Job Portal</h3>
-
 <p align="center">
-  A web-based recruitment platform that connects job seekers with employers,
-  providing dedicated modules for job applications, job listings, and employer management.
+  A selection of applications and solutions I've worked on.
+  <br/>
+  <sub>Click any project preview to open its live application.</sub>
+</p><!-- PROJECT 01: SCGIS -->
+<h3>01 · 🏫 Intelligent Campus Governance &amp; Analytics Platform</h3><p align="center">
+  <a href="https://intelligent-campus-governance-and-a.vercel.app/login" title="Open Intelligent Campus Governance Platform">
+    <img src="./assets/projects/intelligent-campus-governance.png" alt="Intelligent Campus Governance and Analytics Platform preview" width="100%" />
+  </a>
+</p><p>
+  A full-stack campus governance platform that helps students raise and track grievances,
+  enables department heads to manage resolutions, and gives administrators visibility into
+  institutional performance through analytics and SLA monitoring.
+</p>Key Highlights
+- Role-based portals for students, department heads, and administrators.
+- AI-assisted grievance categorization, urgency prioritization, and SLA escalation.
+- Real-time notifications with Socket.IO and analytics dashboards with complaint trends.
+Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p><p>
+  <a href="https://intelligent-campus-governance-and-a.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SaiRajesh01/Intelligent-campus-governance-and-analytics-platform"><img src="https://img.shields.io/badge/GITHUB_REPOSITORY-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" /></a>
+</p><!-- PROJECT 02: CREDIT CARD APPROVAL -->
+<h3>02 · 💳 Credit Card Approval Prediction</h3><p align="center">
+  <a href="https://credit-card-approval-prediction-smart.onrender.com/" title="Open Credit Card Approval Prediction">
+    <img src="./assets/projects/credit-card-approval.png" alt="Credit Card Approval Prediction dashboard preview" width="100%" />
+  </a>
+</p><p>
+  A machine-learning-powered screening application that evaluates applicant information
+  and credit-history data to predict credit-card approval outcomes. It includes an analyst
+  dashboard for reviewing screening activity and model performance.
+</p>Key Highlights
+- Data cleaning, feature engineering, categorical encoding, and numerical scaling.
+- Model evaluation and comparison across Logistic Regression, Decision Tree, Random Forest, and XGBoost.
+- XGBoost selected as the champion classifier, with an SQLite-backed application database.
+Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+</p><p>
+  <a href="https://credit-card-approval-prediction-smart.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/SaiRajesh01/Credit-Card-Approval-Prediction_smart_bridge"><img src="https://img.shields.io/badge/GITHUB_REPOSITORY-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" /></a>
+</p><!-- PROJECT 03: SWIPEX -->
+<h3>03 · 💼 AI-Powered Swipe-Based Job Discovery &amp; Personalized Career Intelligence</h3><p align="center">
+  <a href="https://swipe-x.onrender.com/" title="Open SwipeX Job Discovery Platform">
+    <img src="./assets/projects/swipex-job-discovery.png" alt="SwipeX job discovery platform preview" width="100%" />
+  </a>
+</p><p>
+  SwipeX reimagines job discovery through a swipe-based experience, helping candidates
+  explore opportunities aligned with their goals, review ATS resume-readiness insights,
+  and connect more directly with hiring teams.
+</p>Key Highlights
+- Swipe-based discovery experience for exploring relevant job opportunities.
+- ATS compatibility and resume-readiness insights.
+- Recruiter connectivity, salary transparency, and clear work-mode information.
+Platform Highlights
+<p>
+  <img src="https://img.shields.io/badge/Swipe--Based_Discovery-7C3AED?style=for-the-badge" alt="Swipe-Based Discovery" />
+  <img src="https://img.shields.io/badge/ATS_Resume_Insights-0891B2?style=for-the-badge" alt="ATS Resume Insights" />
+  <img src="https://img.shields.io/badge/Recruiter_Connections-0D9488?style=for-the-badge" alt="Recruiter Connections" />
+  <img src="https://img.shields.io/badge/Salary_Transparency-D97706?style=for-the-badge" alt="Salary Transparency" />
+</p><p>
+  <a href="https://swipe-x.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<hr/>
-
-<!-- PROJECT 02 -->
-<h3 align="center">02 | 🏫 Intelligent Campus Governance & Analytics Platform</h3>
-
-<p align="center">
-  A smart campus-focused platform designed to digitize institutional workflows,
-  improve administrative coordination, and support data-driven decision-making
-  through analytics.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Workflows-0D9488?style=for-the-badge" alt="Digital Workflows"/>
-  <img src="https://img.shields.io/badge/Campus%20Management-2563EB?style=for-the-badge" alt="Campus Management"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-9333EA?style=for-the-badge" alt="Data Analytics"/>
-</p>
-
-<hr/>
-
-<!-- PROJECT 03 -->
-<h3 align="center">03 | 🤖 Human-Verified vs AI-Generated Text Detection</h3>
-
-<p align="center">
-  An NLP and Machine Learning major project focused on identifying
-  AI-generated text and distinguishing it from human-written content
-  using traditional machine learning and deep learning techniques.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP"/>
-  <img src="https://img.shields.io/badge/TF--IDF-00897B?style=for-the-badge" alt="TF-IDF"/>
-  <img src="https://img.shields.io/badge/BiLSTM-EA580C?style=for-the-badge" alt="BiLSTM"/>
-  <img src="https://img.shields.io/badge/BERT-8E44AD?style=for-the-badge" alt="BERT"/>
-</p>
-
-<hr/>
+<!-- Add a GitHub Repository badge here when the SwipeX repository URL is available. --><!-- ================== END FEATURED PROJECTS ==================
 
 <h2>👾 Contribution Activity</h2>
 <p align="center">
