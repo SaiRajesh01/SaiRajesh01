@@ -79,18 +79,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Full-Stack Development Intern</h3>
-      <p><strong>CodeAlpha</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" />
-        <img src="https://img.shields.io/badge/DOMAIN-FULL--STACK%20DEVELOPMENT-102216?style=flat-square&labelColor=11D452&color=102216" alt="Full-Stack Development" />
-      </p>
-      <ul>
-        <li>Completed the CodeAlpha internship in Full-Stack Development.</li>
-        <li>Gained practical exposure to frontend development and building web-based solutions.</li>
-        <li>Received an internship completion certificate.</li>
-      </ul>
-    </td>
+  <h3>🚀 Frontend Development Intern</h3>
+  <p><strong>CodeAlpha</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=flat-square" alt="Completed" />
+    <img src="https://img.shields.io/badge/DOMAIN-FRONTEND%20DEVELOPMENT-102216?style=flat-square&labelColor=11D452&color=102216" alt="Frontend Development" />
+  </p>
+  <ul>
+    <li>Completed the CodeAlpha internship in Frontend Development.</li>
+    <li>Gained practical experience in frontend development and building responsive, user-friendly web applications.</li>
+    <li>Received an internship completion certificate.</li>
+  </ul>
+</td>
     <td width="50%" valign="top">
       <h3>🤖 Virtual Intern — AI/ML Track</h3>
       <p><strong>Infosys Springboard — Virtual Internship 7.0</strong></p>
